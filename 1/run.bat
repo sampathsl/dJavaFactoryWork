@@ -1,0 +1,1 @@
+java -jar CharacterTest-1.0-SNAPSHOT.jar

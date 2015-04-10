@@ -1,0 +1,1 @@
+java -jar MazeGame-1.0-SNAPSHOT.jar

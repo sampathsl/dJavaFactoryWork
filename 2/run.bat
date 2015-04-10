@@ -1,0 +1,1 @@
+java -jar FolderTest-1.0-SNAPSHOT.jar
